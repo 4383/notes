@@ -3,6 +3,7 @@
 - [Focal Points(schelling)](https://fr.wikipedia.org/wiki/Point_de_Schelling)
 - Dynamic LOTKA VOLTERA
 - Thèse derek muller
+- loie de benford
 
 
 > Il faut se hâter de ne pas conclure
