@@ -18,6 +18,8 @@
 
 > La vérité est beaucoup trop compliqué pour permettre autre chose que des approximations - John von neumann
 
+> Le seul objet naturel de la pensée mathématique, est le nombre entier. Henri Poincaré.
+
 > Prévoir la propogation d'une technologie, c'est prévoir une part déterminante de mode et de contagion sociale. Nassim Nicholas Taleb
 
 > La mort d'un homme est une tragédie. La mort d'un million d'hommes est une statistique. Joseph Staline
