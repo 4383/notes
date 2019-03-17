@@ -23,12 +23,16 @@ Consulter la section [bayesianism](sections/bayesianism.md)
 
 ## [Psychologie](sections/psychology/README.md)
 
-Consulter la section [psychologie](sections/psychology.md)
+Consulter la section [psychologie](sections/psychology/README.md)
 
-## [Mathématiques](sections/mathematique.md)
+## [Neurosciences](sections/neurosciences.md)
 
-Consulter la section [psychologie](sections/psychology.md)
+Consulter la section [neurosciences](sections/neurosciences.md)
 
-## [dictons](sections/dictons.md)
+## [Génétique](sections/genetique.md)
+
+Consulter la section [génétique](sections/genetique.md)
+
+## [Dictons](sections/dictons.md)
 
 Un ensemble [de dictons et citations collectés durant mes lectures](sections/dictons.md)
