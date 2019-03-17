@@ -12,6 +12,8 @@
 
 > Les politiciens utilisent les statistiques comme les ivrognes utilisent les lampadaires : pas pour l'illumination mais pour le support - Hans kuhn
 
+> Nous croyons que ce sont nos actes qui font de nous ce que nous pensons être, alors que c’est ce que nous pensons être qui est à l'origine de nos actes.
+
 > Une réponse approximative a la bonne question à beaucoup plus de valeur qu'une réponse précise a la mauvaise question - John tukey
 
 > La vérité est beaucoup trop compliqué pour permettre autre chose que des approximations - John von neumann
