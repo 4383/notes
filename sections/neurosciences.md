@@ -73,7 +73,10 @@ Les neuromédiateurs sont activés par les besoins de l'organisme et sont respon
 À l’écoute d’un air, d’une chanson ou de la musique en général, notre cerveau réagit et peut nous provoquer une sensation de satisfaction ou de plénitude.
 
 Les molécules chimiques propagés par ces neurotransmetteurs peuvent provoquer des réactions puissantes chez les individus (orgasmes, euphorie, etc...), par exemple ces neurotransmetteurs peuvent être de l'endorphine, de la sérotonine, etc... et comparables à des substances présentes
-dans de nombreuses drogues et ainsi avoir de puissants effets sur notre relation à la réalité si en lien avec un réseau neuronale constitué suite à un apprentissage en lien avec des aspects mystiques, extrasensorielles, etc... le tout véhiculé par un environnement, une éducation, une culture, comme dit précédemment.
+dans de nombreuses drogues et ainsi avoir de puissants effets sur notre relation à la réalité et la perception de celle-ci, si ces neurotransmetteurs sont en lien avec un réseau neuronale constitué suite à un apprentissage en lien avec des aspects mystiques, extrasensorielles, etc... le tout véhiculé par un environnement, une éducation, une culture, comme dit précédemment.
+
+En d'autres terme nous fabriquons nos modèles mentaux dans lesquels se propagent des substances chimique très puissantes à l'origine
+de nos émotions et de notre perception.
 
 Je précise là qu'il s'agit d'une réflexion personnelle sur le sujet, je n'ai pas de preuves ou d'études spécifique à ce sujet à joindre
 en référence à ma réflexion.
