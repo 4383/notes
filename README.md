@@ -36,3 +36,7 @@ Consulter la section [génétique](sections/genetique.md)
 ## [Dictons](sections/dictons.md)
 
 Un ensemble [de dictons et citations collectés durant mes lectures](sections/dictons.md)
+
+## [Youtube channels](sections/youtube.md)
+
+Un ensemble [de channel youtube intéressant](sections/youtube.md)
