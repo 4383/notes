@@ -24,7 +24,11 @@
 
 > La mort d'un homme est une tragédie. La mort d'un million d'hommes est une statistique. Joseph Staline
 
-> Une vie sauvée est une statistique, une personne blessée est une anecdote. Les statistiques sont invisibles, les anecdotes sont marquantes Nassim Nicholas Taleb
+> Une vie sauvée est une statistique, une personne blessée est une anecdote. Les statistiques sont invisibles, les anecdotes sont marquantes - Nassim Nicholas Taleb
+
+> La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer - Antoine de Saint-Exupéry
+
+> Les diplomes font des parents heureux et des salariés malheureux.
 
 > La formule de Bayes vous invite à accepter l'argument d'autorité si et seulemet si
 > il est hautement improbable que l'autorité prenne la position qu'il a prise 
