@@ -38,4 +38,8 @@
 > dans sa faculté à susciter des réactions émotionnelles que dans celle à expliquer
 > des données observées
 
+> Il y a pas de vices qui empêche un homme d'avoir beaucoup d'amis autant que peuvent le faire de trop grande qualités - Arthur Schopenhauer
+
+> La foule applaudit les plus basses vertus admires vertus moyenne et reste indifférent vertus les plus élevés. - Arthur Schopenhauer
+
 https://www.brainyquote.com/authors/albert-einstein-quotes
