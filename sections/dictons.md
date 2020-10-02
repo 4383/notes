@@ -42,4 +42,6 @@
 
 > La foule applaudit les plus basses vertus admires vertus moyenne et reste indifférent vertus les plus élevés. - Arthur Schopenhauer
 
+> Ce sont les tonneaux les plus creu qui résonne le plus fort.
+
 https://www.brainyquote.com/authors/albert-einstein-quotes
