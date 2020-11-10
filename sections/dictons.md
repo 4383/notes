@@ -44,4 +44,10 @@
 
 > Ce sont les tonneaux les plus creu qui résonne le plus fort.
 
+> Je vais répondre à une question qui, au fond de la salle, ne m’a pas été posée. (Charles de Gaulle)
+
+> La conscience est une belle-mère qui ne sort jamais de chez vous. (Henry Louis Mencken)
+
+> To engage in conflict, one does not need to bring a knife that cuts, but a needle that sews. (bahamian people)
+
 https://www.brainyquote.com/authors/albert-einstein-quotes
